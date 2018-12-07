@@ -44,6 +44,3 @@ ellipse(223,157,20,20);
 
 
 
-
-//save function
-save("VINCENT.Curiosity.Drawing.png");
